@@ -18,9 +18,6 @@
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Enable GitHub Pages
-
-_Welcome to GitHub Pages and Jekyll :tada:!_
 
 
 <!--
